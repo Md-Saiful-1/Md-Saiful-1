@@ -1,4 +1,4 @@
-## Hi there 👋
+Hi there 👋
 
 <!--
 **Md-Saiful-1/Md-Saiful-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am Md. Saiful Islam, an undergraduate student majoring in Electrical and Electronic Engineering at Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh.
+Currently, I am learning Python and C/C++ in the field of computer science, as well as PCB designing in electronics.
+I'm eager to collaborate on exciting and innovative projects in Python, C/C++, or PCB design.
+You can reach me on LinkedIn through the following link:
+LinkedIn: www.linkedin.com/in/mdsaifuleee22
+Learning and acquiring new skills in my field is one of my greatest passions!
